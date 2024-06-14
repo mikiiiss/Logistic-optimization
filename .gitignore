@@ -1,6 +1,6 @@
 .env
 .venv/*
 
-/home/miki/Logistic-optimization/Dataset
+Dataset
+datasets
 
-/Dataset
