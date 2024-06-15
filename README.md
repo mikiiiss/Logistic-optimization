@@ -11,9 +11,11 @@ Causal Inference and Causal Graphs
 ## results
 Screensots of some EDA and results
 ## Instalation
-git clone https://github.com/mikiiiss/Logistic-optimization
-cd logistic_optimization
-pip install -r requirements.txt
+-git clone https://github.com/mikiiiss/Logistic-optimization
+
+-cd logistic_optimization
+
+-pip install -r requirements.txt
 ## contrbuting
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -21,7 +23,8 @@ Please make sure to update tests as appropriate.
 ## Contributors
 Michael
 ## folder
-root folder
-requirements.txt: a text file lsiting the projet's dependancies
-.gitignore: a text file listing files and folders to be ignored
-README.md: Markdown text with a brief explanation of the project and the repository structure.
+-requirements.txt: a text file lsiting the projet's dependancies
+
+-.gitignore: a text file listing files and folders to be ignored
+
+-README.md: Markdown text with a brief explanation of the project and the repository structure.
