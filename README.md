@@ -1,6 +1,8 @@
 # Logistic-optimization
-##about
+## about
 This week’s client Gokada is the largest last mile delivery service company in Nigeria. It provides parcel delivery services facilitated by motorbike owners and drivers(pilots) in Lagos, Nigeria. Even Though, Gokada has been able to complete over one million deliveries, it has faced a sub-optimal placement of pilots as it tries to expand its services. This has led to a high number of unfulfilled delivery requests. In order to better understand the root reasons of unfilled requests and develop solutions that suggest driver locations that boost the percentage of complete orders, Gokada wants to analyze its data. Since drivers are compensated according to the quantity of requests they take, this week’s solution will benefit Gokada by increasing customer satisfaction and generating more revenue.
+## introduction
+Causal inference is the process of determining the independent, actual effect of a particular phenomenon that is a component of a larger system. The main difference between causal inference and inference of association is that causal inference analyzes the response of an effect variable when the cause of the effect variable is changed. The science of why things occur is called etiology. Causal inference is said to provide evidence of causality theorized by causal reasoning.
 
 ## folder structure
 ## scripts
