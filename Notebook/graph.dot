@@ -1,0 +1,11 @@
+strict digraph  {
+distance;
+driver_action;
+displacement;
+speed;
+weekday;
+distance -> driver_action  [origin=unknown];
+displacement -> driver_action  [origin=unknown];
+speed -> driver_action  [origin=unknown];
+weekday -> driver_action  [origin=unknown];
+}
