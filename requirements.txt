@@ -1,1 +1,9 @@
 pandas
+numpy
+pydot
+pyplot
+haversine
+causalnex
+matplotlib
+klearn
+folium
